@@ -1,2 +1,6 @@
 # literalia-front
-idk
+Setup:
+```bash
+npm i
+npx expo start
+```
